@@ -1,2 +1,2 @@
-# GeoFS-Road-Traffic
-An addon that adds NPC cars in GeoFS.
+# GeoFS Airport Announcer
+An addon that adds airport announcements in GeoFS
